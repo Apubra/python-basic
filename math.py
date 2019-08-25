@@ -1,0 +1,5 @@
+print(4+4)
+print(5-2)
+print(4*4)
+print(8/4)
+print(4**4)
