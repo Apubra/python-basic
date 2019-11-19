@@ -35,3 +35,5 @@ print(x)
 y = ['Janet', 'Jessy', 'Kelly', 'Alice', 'Joe', 'Bob']
 y.sort()
 print(y)
+y.reverse()
+print(y)
